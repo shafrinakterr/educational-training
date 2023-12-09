@@ -1,0 +1,80 @@
+[
+  {
+    "id": 101,
+    "title": "CodeMasters Tech",
+    "price": "$40",
+    "img": "https://i.ibb.co/h2Rqh6G/1.jpg",
+    "sponsor": {
+      "title": "STEM Education Partner",
+      "spon_id": 1,
+      "sponsor_description": "Support educational access by sponsoring scholarships for deserving students. Your contribution will help young minds pursue their dreams.",
+      "img": "https://i.ibb.co/JdrhSDP/spon1.png"
+    },
+    "description": "A leading tech company specializing in software development tools and cloud solutions. Proudly sponsoring educational initiatives to nurture the next generation of tech talent."
+  },
+  {
+    "id": 102,
+    "title": "EduInnovate",
+    "price": "$30",
+    "img": "https://i.ibb.co/phFSd1P/Training-Programs.jpg",
+    "sponsor": {
+      "spon_id": 2,
+      "title": "Education Technology Champion",
+      "sponsor_description": "Join us as a Community Education Advocate and make a difference in local schools. Your sponsorship will enable us to create impactful educational initiatives for our community.",
+      "img": "https://i.ibb.co/6F7p46p/spon2.png"
+    },
+    "description": "Driving innovation in the field of education technology. EduInnovate believes in empowering educators and learners through cutting-edge digital platforms."
+  },
+  {
+    "id": 103,
+    "title": "AlphaBooks Publishing",
+    "price": "$60",
+    "img": "https://i.ibb.co/SfQcVvc/Career-Fairs.jpg",
+    "sponsor": {
+      "spon_id": 3,
+      "title": "Community Education Advocate",
+      "sponsor_description": "Join us as a Community Education Advocate and make a difference in local schools. Your sponsorship will enable us to create impactful educational initiatives for our community.",
+      "img": "https://i.ibb.co/Z1jjMvj/spon3.png"
+    },
+    "description": "A premier publishing house with a rich history of producing best-selling educational books and resources. Committed to fostering a love for learning."
+  },
+  {
+    "id": 104,
+    "title": "TechSprint Labs",
+    "price": "$70",
+    "img": "https://i.ibb.co/R4DXtFK/5.webp",
+    "sponsor": {
+      "spon_id": 4,
+      "title": "Global Education Ambassador",
+      "sponsor_description": "As a Global Education Ambassador, your support will extend educational opportunities to underserved regions worldwide. Help us bridge educational gaps and create a brighter future for all.",
+      "img": "https://i.ibb.co/2n3fz8X/spon4.png"
+    },
+    "description": "A research-driven organization focusing on emerging technologies and their applications in education. Sponsoring projects that push boundaries and redefine teaching methodologies."
+  },
+  {
+    "id": 105,
+    "title": "GreenEdu Initiatives",
+    "price": "$50",
+    "img": "https://i.ibb.co/SfQcVvc/Career-Fairs.jpg",
+    "sponsor": {
+      "spon_id": 5,
+      "title": "STEM Education Partner",
+      "sponsor_description": "",
+      "img": "https://i.ibb.co/JqHb5b1/spon5.png"
+    },
+    "description": "Championing sustainable practices in the realm of education. GreenEdu is at the forefront of integrating environmental consciousness in curriculum design and educational infrastructure."
+  },
+  {
+    "id": 106,
+    "title": "FuturEd Technologies",
+    "price": "$25",
+    "img": "https://i.ibb.co/kQ8kBkc/Workshops-Webinars.jpg",
+    "sponsor": {
+      "title": "Library Enhancement",
+      "spon_id": 6,
+      "sponsor_description": "Become a Library Enhancement Sponsor and foster a love for reading and learning. Your support will provide resources and programs to enrich minds.",
+      "img": "https://i.ibb.co/fDJtVhp/spon6.png"
+    },
+    "description": "Pioneering futuristic solutions for smart classrooms, virtual learning, and AI-driven educational tools. Dedicated to shaping the future of global education."
+  }
+]
